@@ -1,0 +1,16 @@
+{
+  "name": "prettyplease",
+  "version": "0.1.0",
+  "description": "HTML5 Beautifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "clarinet": "~0.7.1",
+    "optimist": "~0.3.5"
+  }
+}
